@@ -1,7 +1,6 @@
 var score1 = 0;
 let score2 = 200;
 const defaultScore = 0;
-console.log("A,O");
 function outer() {
     if (true) {
         var score = 0;
@@ -13,4 +12,5 @@ function outer() {
     }
     console.log(score);
 }
+outer();
 //# sourceMappingURL=variables.js.map
