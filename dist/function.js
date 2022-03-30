@@ -19,4 +19,5 @@ function store(type) {
     }
 }
 const s = store('통조림');
+s.a;
 //# sourceMappingURL=function.js.map
