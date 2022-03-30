@@ -1,0 +1,12 @@
+{
+  "name": "TypeScript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Hogrii/TypeScript",
+  "author": "jinho <hosboy93@naver.com>",
+  "license": "MIT",
+  "script": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
