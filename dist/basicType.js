@@ -37,5 +37,5 @@ user1 = {
 let tuple2;
 let tuple3;
 tuple2 = [1, "hello"];
-tuple3 = [1, 2, 3,];
+tuple3 = [1, 2, 3];
 //# sourceMappingURL=basicType.js.map
