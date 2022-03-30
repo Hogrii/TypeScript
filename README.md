@@ -1,2 +1,2 @@
 ## TypeScript
-# fastcapmus_typescript online lecture
+#### fastcapmus_typescript online lecture
