@@ -25,4 +25,17 @@ anyValue = null;
 anyValue = {};
 objValue = { name: 'jay' };
 objValue = new String('hello');
+symbolValue = Symbol();
+let nameList;
+nameList = ["1", "3"];
+nameList.push("333");
+let user1;
+user1 = {
+    name: 'jay',
+    score: 30
+};
+let tuple2;
+let tuple3;
+tuple2 = [1, "hello"];
+tuple3 = [1, 2, 3,];
 //# sourceMappingURL=basicType.js.map

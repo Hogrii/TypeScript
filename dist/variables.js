@@ -12,5 +12,4 @@ function outer() {
     }
     console.log(score);
 }
-outer();
 //# sourceMappingURL=variables.js.map

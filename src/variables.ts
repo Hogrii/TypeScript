@@ -22,7 +22,7 @@ function outer(){
 
         // const는 상수이기 때문에 선언될 때 타입을 선언해줘야 한다.
         // const score: number;
-    }
+    } 
     
     for(let i=0; i<3; i++){
         setTimeout(function(){            
@@ -34,4 +34,3 @@ function outer(){
     // score의 변수인 var는 함수단위이기 때문에 밖에서 접근이 불가하다
     // console.log(score);
 }
-outer();
