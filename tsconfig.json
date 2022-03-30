@@ -9,9 +9,13 @@
         "node_modules"
     ],
     "compilerOptions":{
+        // 컴파일 방식
         "module": "es6",
+        // 시작 루트폴더
         "rootDir": "src",
+        // 컴파일 후 js파일 생성 폴더
         "outDir": "dist",
+        // 컴파일 버전
         "target": "es6",
         // 소스 원본
         "sourceMap": true,
