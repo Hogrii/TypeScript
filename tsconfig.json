@@ -1,0 +1,21 @@
+// 설정파일, 프로젝트 최상단에 존재
+// 설정에 의해 js파일이 컴파일 된다
+
+{
+    "include":[
+        "src/**/*.ts"
+    ],
+    "exclude":[
+        "node_modules"
+    ],
+    "compilerOptions":{
+        "module": "es6",
+        "rootDir": "src",
+        "outDir": "dist",
+        "target": "es6",
+        // 소스 원본
+        "sourceMap": true,
+        // 주석 제거
+        "removeComments": true
+    }
+}
